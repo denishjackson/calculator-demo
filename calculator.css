@@ -1,16 +1,22 @@
 body{
-	background-color:pink;
-	position:relative;
-	top:80px;
+	background-color: indigo;
+	position:center;
+	top:40%;
 	left:40%;
 }
 .a input{
 	position:relative;
-	
-	background-color:green;
+	font-family: Time New Roman;
+	background-color:white;
 	font-size:21px;
-	text-align:right;
+	text-align:center;
 } 
 .b{
-	color:blue;
+	color:black;
+}
+.head{
+		background-color: grey;
+		color: violet;
+		text-align: relative;
+		font-size: 34px
 }
